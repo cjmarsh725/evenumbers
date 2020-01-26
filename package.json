@@ -1,0 +1,19 @@
+{
+  "name": "evenumbers",
+  "version": "1.0.0",
+  "description": "A companion app for Eve Online",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmarsh725/evenumbers.git"
+  },
+  "author": "Chris Marsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjmarsh725/evenumbers/issues"
+  },
+  "homepage": "https://github.com/cjmarsh725/evenumbers#readme"
+}
